@@ -1,0 +1,20 @@
+.border-dashed{
+  border-style: dashed !important;
+}
+#intro {
+  background-image: url(../assets/recycle-cans-recycled-old.jpg);
+  height:  100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.onShow{
+  font-weight: bold;
+}
+.img-view-item{
+  width: 10em;
+}
+.my-5rem{
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
